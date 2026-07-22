@@ -6,14 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 9 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [greedy](#greedy) (1)
+- [brute force](#brute-force) (2)
+- [dp](#dp) (1)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (3)
+- [math](#math) (2)
+- [number theory](#number-theory) (1)
+- [sortings](#sortings) (1)
 
 ---
 
@@ -21,13 +26,52 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2204A | [Passing the Ball](https://codeforces.com/contest/2204/problem/A) | 800 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2204/A%20-%20Passing%20the%20Ball/solution.java) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2225/B%20-%20Alternating%20String/solution.java) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.java) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2188B | [Seats](https://codeforces.com/contest/2188/problem/B) | 1000 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2188/B%20-%20Seats/solution.java) |
+| 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.java) |
+| 2204B | [Right Maximum](https://codeforces.com/contest/2204/problem/B) | 800 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2204/B%20-%20Right%20Maximum/solution.java) |
+| 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.java) |
+| 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.java) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2225/B%20-%20Alternating%20String/solution.java) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2195/B%20-%20Heapify%201/solution.java) |
+| 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.java) |
+| 2204A | [Passing the Ball](https://codeforces.com/contest/2204/problem/A) | 800 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2204/A%20-%20Passing%20the%20Ball/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
+| 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [Java 21](https://github.com/mikelokinz/code_sub/blob/HEAD/2195/B%20-%20Heapify%201/solution.java) |
 
 ---
 
